@@ -16,3 +16,7 @@ LoRaWNモジュール ES920LRを利用するための関数を宣言
 ## main.py
 起動時ES920LRの設定
 現在(19.8.21)scan.pyで取得したBDアドレスを標準出力
+
+## 参考
+ble通信 https://github.com/karulis/pybluez/tree/master/examples/ble
+LoRa通信 https://github.com/AmbientDataInc/LoRa-rssi-measure
