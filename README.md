@@ -4,7 +4,7 @@
 BluetoothをONにした携帯を持っている登録者が、災害発生直前どこにいたか把握できるシステム
 
 ## 仕様機材
-・Raspberry Pi 3 Model B+
+・Raspberry Pi 3 Model B+<br>
 ・ES920LR, ES920EB
 
 ## scan.py
